@@ -1,8 +1,6 @@
 # Best Project that I have Created
 ## Software Engineer & Tech Trainer
 ### Empowering Minds Through Code 💻
-## Tech Sessions @ [Your Organization]
-
 ## Projects @ [Muhammad Bahawal]
 
 - [Yalla7.com](https://yalla7.com/) (Current)
