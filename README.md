@@ -3,8 +3,8 @@
 ### Empowering Minds Through Code 💻
 ## Projects @ [Muhammad Bahawal]
 
-- [Yalla7.com](https://yalla7.com/) (Current)
-- [CravyCrunch.com](https://cravycrunch.co.uk/) (Current)
+- [teqtronics.com](https://teqtronics.com/) (completed)
+- [CravyCrunch.com](https://cravycrunch.co.uk/) (Completed)
 - [Dna Hormonal Health](https://dnahormonalhealth.com/) (Completed)
 - [Jcbuck](https://jcbuck.co.uk/) (Completed)
 - [Leadhc](https://www.leadhc.co.uk/) (Completed)
