@@ -7,7 +7,6 @@
 - [CravyCrunch.com](https://cravycrunch.co.uk/) (Completed)
 - [Dna Hormonal Health](https://dnahormonalhealth.com/) (Completed)
 - [Jcbuck](https://jcbuck.co.uk/) (Completed)
-- [Leadhc](https://www.leadhc.co.uk/) (Completed)
 - [Color-On](https://color-on.in/) (Completed)
 - [Foneclick](https://foneclick.co.uk) (Completed)
 - [Tribedishes](https://tribedishes.com) (Completed)
