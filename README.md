@@ -3,6 +3,7 @@
 ### Empowering Minds Through Code 💻
 ## Projects @ [Muhammad Bahawal]
 
+- [topqualitybarrelsindustry.com](https://topqualitybarrelsindustry.com/) (Completed)
 - [teqtronics.com](https://teqtronics.com/) (completed)
 - [CravyCrunch.com](https://cravycrunch.co.uk/) (Completed)
 - [Dna Hormonal Health](https://dnahormonalhealth.com/) (Completed)
@@ -11,6 +12,7 @@
 - [Foneclick](https://foneclick.co.uk) (Completed)
 - [Tribedishes](https://tribedishes.com) (Completed)
 - [Tech-Hub Inovations](https://techhubsystems.com/) (Completed)
+  
 
 
 
