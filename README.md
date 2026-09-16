@@ -8,6 +8,8 @@
 | :--- | :--- |
 | [Top Quality Barrels Industry](https://topqualitybarrelsindustry.com/) | Completed |
 | [Teqtronics](https://teqtronics.com/) | Completed |
+| [AppLinix](https://www.applinix.com/) | Completed |
+| [ZWSSB Tech Solutions](https://www.zwssbtechsolutions.com/) | Completed |
 | [Cravy Crunch](https://cravycrunch.co.uk/) | Completed |
 | [DNA Hormonal Health](https://dnahormonalhealth.com/) | Completed |
 | [Jcbuck](https://jcbuck.co.uk/) | Completed |
